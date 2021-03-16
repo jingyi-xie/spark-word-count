@@ -1,0 +1,22 @@
+Launch App..
+Initiating main..
+Counting words in  s3://jx95-spark-input/input/input.txt
+The: 1
+worthy: 1
+Abbot: 2
+of: 2
+Aberbrothok: 2
+Had: 1
+placed: 1
+that: 1
+bell: 1
+on: 1
+the: 3
+Inchcape: 1
+Rock: 2
+And: 2
+then: 1
+they: 1
+knew: 1
+perilous: 1
+blest: 1
